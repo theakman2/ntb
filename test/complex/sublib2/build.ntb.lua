@@ -1,0 +1,1 @@
+return ccompile{"main.c", "main2.c"};
